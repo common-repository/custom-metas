@@ -1,0 +1,4 @@
+#adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap, #wpadminbar{
+	display:none !important;
+}
+#wpcontent, #wpfooter{ margin-left:10px !important};
